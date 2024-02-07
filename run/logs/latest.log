@@ -1,0 +1,377 @@
+[07Feb2024 00:01:11.601] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 369 advancements
+[07Feb2024 00:02:59.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[07Feb2024 00:02:59.448] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Spectator Mode
+[07Feb2024 00:03:20.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[07Feb2024 00:03:20.798] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[07Feb2024 00:03:25.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[07Feb2024 00:03:25.498] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Spectator Mode
+[07Feb2024 00:03:58.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[07Feb2024 00:03:58.265] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[07Feb2024 00:07:19.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[07Feb2024 00:07:19.283] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Spectator Mode
+[07Feb2024 00:07:30.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[07Feb2024 00:07:30.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[07Feb2024 00:12:51.102] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-13'
+[07Feb2024 00:13:00.637] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-11'
+[07Feb2024 00:13:22.002] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-8'
+[07Feb2024 00:13:31.103] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-1'
+[07Feb2024 00:14:01.669] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-14'
+[07Feb2024 00:14:11.669] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-5'
+[07Feb2024 00:14:21.320] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:14:38.052] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:14:47.753] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-10'
+[07Feb2024 00:14:57.655] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 00:15:05.204] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-9'
+[07Feb2024 00:15:12.589] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-10'
+[07Feb2024 00:15:15.844] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 00:15:15.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 00:15:15.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 00:15:15.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 00:16:24.687] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-14'
+[07Feb2024 00:16:30.570] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:16:39.985] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-10'
+[07Feb2024 00:16:46.887] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:16:53.069] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:17:00.653] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-5'
+[07Feb2024 00:17:07.403] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:17:14.970] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 00:18:00.071] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 00:18:08.087] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-4'
+[07Feb2024 00:18:15.270] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-1'
+[07Feb2024 00:18:26.787] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 00:18:39.571] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-10'
+[07Feb2024 00:18:48.153] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:18:58.203] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-8'
+[07Feb2024 00:19:06.354] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:20:15.305] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 00:20:22.954] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-5'
+[07Feb2024 00:20:29.671] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:20:35.871] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-1'
+[07Feb2024 00:20:45.688] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-8'
+[07Feb2024 00:20:52.522] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-5'
+[07Feb2024 00:20:59.388] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-10'
+[07Feb2024 00:21:07.754] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:23:32.922] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:23:36.721] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:23:42.805] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:23:47.821] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:23:51.372] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-15'
+[07Feb2024 00:25:34.473] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:25:40.422] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:25:48.023] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:25:52.705] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:26:01.306] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-7'
+[07Feb2024 00:27:12.822] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:27:16.889] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:27:20.590] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-1'
+[07Feb2024 00:27:25.139] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-7'
+[07Feb2024 00:27:28.643] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-12'
+[07Feb2024 00:27:41.120] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:27:44.206] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:27:47.975] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-13'
+[07Feb2024 00:27:51.190] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:27:55.707] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-7'
+[07Feb2024 00:28:23.756] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-13'
+[07Feb2024 00:28:26.973] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:28:30.775] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:28:35.024] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:28:40.157] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-4'
+[07Feb2024 00:29:05.423] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:29:08.773] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:29:12.658] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-7'
+[07Feb2024 00:29:16.476] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:29:20.244] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-1'
+[07Feb2024 00:29:37.506] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:29:40.724] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:29:44.241] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-7'
+[07Feb2024 00:29:48.008] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:29:59.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:30:18.040] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-1'
+[07Feb2024 00:30:21.590] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:30:25.340] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:30:28.723] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:30:32.324] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-14'
+[07Feb2024 00:30:43.957] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:30:47.174] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:30:49.907] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:30:54.873] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:30:59.476] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:34:33.658] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:34:37.442] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:34:40.959] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-1'
+[07Feb2024 00:34:44.575] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:34:51.909] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-9'
+[07Feb2024 00:34:58.942] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:35:03.759] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-8'
+[07Feb2024 00:35:06.843] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:35:10.581] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:35:14.449] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 00:35:24.109] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-7'
+[07Feb2024 00:35:27.691] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:35:33.893] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:35:37.259] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:35:41.253] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-7'
+[07Feb2024 00:35:52.775] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:35:55.925] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:36:00.392] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:36:06.280] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-8'
+[07Feb2024 00:36:09.543] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-14'
+[07Feb2024 00:36:14.709] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:36:19.058] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:36:22.309] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-13'
+[07Feb2024 00:36:26.163] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:36:30.102] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-5'
+[07Feb2024 00:36:36.209] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:36:39.343] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:36:44.359] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:36:51.427] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:36:54.709] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-8'
+[07Feb2024 00:37:06.826] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:37:09.777] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-1'
+[07Feb2024 00:37:14.477] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:37:17.577] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:37:21.110] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 00:37:27.225] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:37:30.293] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:37:35.060] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:37:39.197] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-7'
+[07Feb2024 00:37:42.493] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-12'
+[07Feb2024 00:37:49.159] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:37:51.643] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:37:55.577] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-8'
+[07Feb2024 00:37:59.526] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:38:02.663] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-15'
+[07Feb2024 00:39:43.145] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 00:39:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 00:39:43.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 00:39:43.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 00:47:27.944] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 00:47:27.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 00:47:27.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 00:47:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 00:48:04.329] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-15'
+[07Feb2024 00:48:07.496] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:48:10.996] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 00:48:13.798] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:48:17.266] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:48:24.047] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:48:27.696] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:48:31.630] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:48:34.829] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-8'
+[07Feb2024 00:48:38.047] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:48:45.263] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-15'
+[07Feb2024 00:48:48.730] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:48:51.619] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:48:52.043] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 00:48:52.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 00:48:52.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 00:48:52.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 00:49:42.164] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:49:45.147] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:49:50.230] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:49:53.164] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 00:49:56.797] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:49:59.986] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:50:03.698] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-15'
+[07Feb2024 00:50:10.248] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:50:12.930] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:50:17.047] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-13'
+[07Feb2024 00:50:20.900] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:50:24.188] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-15'
+[07Feb2024 00:50:30.830] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:50:36.348] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:50:40.380] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-15'
+[07Feb2024 00:50:43.614] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:50:46.764] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-3'
+[07Feb2024 00:50:55.214] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:50:58.747] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:51:02.133] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:51:05.815] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:51:10.075] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-12'
+[07Feb2024 00:51:16.730] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-1'
+[07Feb2024 00:51:21.014] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-15'
+[07Feb2024 00:51:24.580] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:51:29.334] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:51:31.570] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-1'
+[07Feb2024 00:51:37.498] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:51:40.614] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:51:43.348] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:51:46.715] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:51:51.182] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-14'
+[07Feb2024 00:52:45.614] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-1'
+[07Feb2024 00:57:24.782] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:57:27.798] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:57:32.083] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:57:35.616] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-1'
+[07Feb2024 00:57:39.416] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-9'
+[07Feb2024 00:58:06.116] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:58:09.333] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 00:58:13.882] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-15'
+[07Feb2024 00:58:17.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:58:21.033] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-8'
+[07Feb2024 00:58:28.599] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 00:58:34.717] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-11'
+[07Feb2024 00:58:38.250] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-13'
+[07Feb2024 00:58:41.284] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 00:58:44.667] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-15'
+[07Feb2024 00:59:16.500] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 00:59:19.616] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-15'
+[07Feb2024 00:59:23.483] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-6'
+[07Feb2024 00:59:26.667] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:59:30.250] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-2'
+[07Feb2024 00:59:39.549] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 00:59:42.916] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-1'
+[07Feb2024 00:59:46.701] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-15'
+[07Feb2024 00:59:50.817] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-9'
+[07Feb2024 00:59:54.730] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-7'
+[07Feb2024 01:00:02.617] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 01:00:06.284] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 01:00:11.784] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-13'
+[07Feb2024 01:00:14.934] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 01:00:18.912] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-6'
+[07Feb2024 01:00:28.351] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-5'
+[07Feb2024 01:00:31.967] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 01:00:35.100] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-13'
+[07Feb2024 01:00:39.385] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-3'
+[07Feb2024 01:00:42.887] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-8'
+[07Feb2024 01:00:50.434] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-14'
+[07Feb2024 01:00:54.133] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-10'
+[07Feb2024 01:00:56.883] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-12'
+[07Feb2024 01:01:00.384] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 01:01:03.767] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-9'
+[07Feb2024 01:01:15.350] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-8'
+[07Feb2024 01:01:19.484] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-7'
+[07Feb2024 01:01:22.884] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-4'
+[07Feb2024 01:01:26.151] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:wall-2'
+[07Feb2024 01:01:30.509] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure loaded from 'minecraft:roof-12'
+[07Feb2024 01:08:48.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[07Feb2024 01:08:48.920] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Spectator Mode
+[07Feb2024 01:08:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[07Feb2024 01:08:57.876] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[07Feb2024 01:13:26.493] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 01:13:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 01:13:26.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 01:13:26.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 01:21:02.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[07Feb2024 01:21:02.257] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Spectator Mode
+[07Feb2024 01:21:17.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[07Feb2024 01:21:17.090] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[07Feb2024 01:21:27.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[07Feb2024 01:21:27.341] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Spectator Mode
+[07Feb2024 01:21:32.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[07Feb2024 01:21:32.457] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[07Feb2024 01:23:10.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Spectator Mode]
+[07Feb2024 01:23:10.758] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Spectator Mode
+[07Feb2024 01:23:22.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Set own game mode to Creative Mode]
+[07Feb2024 01:23:22.324] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Set own game mode to Creative Mode
+[07Feb2024 01:37:51.194] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 01:37:51.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 01:37:51.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 01:37:51.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:04:29.408] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 372 advancements
+[07Feb2024 02:09:32.593] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:32.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:32.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:32.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:33.545] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:33.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:33.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:34.293] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:34.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:34.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:34.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:34.944] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:34.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:34.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:35.694] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:35.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:35.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:35.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:36.493] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:36.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:37.144] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:37.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:37.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:37.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:37.844] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:37.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:37.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:40.744] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:40.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:40.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:41.444] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:41.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:41.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:42.143] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:42.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:42.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:42.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:09:44.244] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:09:44.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:09:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:09:44.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:24:21.144] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:24:21.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:24:21.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:24:21.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:30:16.798] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 375 advancements
+[07Feb2024 02:30:31.648] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 376 advancements
+[07Feb2024 02:48:29.443] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:48:29.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:48:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:48:29.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 02:56:53.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [Jigsaw Block] to Dev]
+[07Feb2024 02:56:53.189] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gave 1 [Jigsaw Block] to Dev
+[07Feb2024 02:58:10.393] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 02:58:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 02:58:10.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 02:58:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:01:16.743] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:01:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:01:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:01:16.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:01:52.894] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:01:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:01:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:01:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:01:54.744] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:01:54.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:01:54.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:01:54.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:07:59.494] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:07:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:07:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:07:59.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:09:05.794] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:09:05.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:09:05.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:09:05.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:14:46.393] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:14:46.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:14:46.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:14:46.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:14:55.443] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:14:55.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:14:55.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:14:55.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:15:14.494] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:15:14.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:15:14.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:15:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether
+[07Feb2024 03:20:47.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dev: Gave 1 [Structure Block] to Dev]
+[07Feb2024 03:20:47.027] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Gave 1 [Structure Block] to Dev
+[07Feb2024 03:20:59.331] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Invalid structure name ''
+[07Feb2024 03:21:02.872] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Invalid structure name ''
+[07Feb2024 03:21:40.992] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Size successfully detected for 'minecraft:buildingbase_1'
+[07Feb2024 03:21:49.430] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Structure saved as 'minecraft:buildingbase_1'
+[07Feb2024 03:21:51.294] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[07Feb2024 03:21:51.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:overworld
+[07Feb2024 03:21:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_end
+[07Feb2024 03:21:51.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Structure Builder]'/minecraft:the_nether

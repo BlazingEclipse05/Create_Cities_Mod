@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "createcities:buildingbase_1/start_pool",
+  "size": 7,
+  "max_distance_from_center": 128,
+  "biomes": "#createcities:has_structure/buildingbase_1",
+  "step": "surface_structures",
+  "start_height": {
+    "absolute": -7
+  },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "use_expansion_hack": false,
+  "spawn_overrides": {
+    "creature": {
+      "bounding_box": "piece",
+      "spawns": [
+        {
+          "type": "minecraft:monster",
+          "weight": 4,
+          "minCount": 4,
+          "maxCount": 12
+        }
+      ]
+    }
+  }
+}

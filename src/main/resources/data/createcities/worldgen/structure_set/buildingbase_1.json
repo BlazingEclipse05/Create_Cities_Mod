@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "createcities:buildingbase_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 10697878963,
+    "spacing": 20,
+    "separation": 6,
+    "type": "minecraft:random_spread"
+  }
+}
